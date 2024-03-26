@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "cover": "https://i.ibb.co/c1C21zW/bagImg.png",
+    "title": "Introduction to Programming",
+    "description": "Learn the basics of programming with this introductory course. Covers fundamental concepts such as variables, control structures, and functions.",
+    "price": "49.99",
+    "credit_hour": 3
+  },
+  {
+    "id": "2",
+    "cover": "https://i.ibb.co/Bz5RgnH/Beautyp-Img.png",
+    "title": "Web Development Fundamentals",
+    "description": "Explore the foundations of web development including HTML, CSS, and JavaScript. Build your first web pages and understand how to structure and style them.",
+    "price": "69.99",
+    "credit_hour": 4
+  },
+  {
+    "id": "3",
+    "cover": "https://i.ibb.co/t80wpVk/Cbooks-removebg.png",
+    "title": "Data Science Essentials",
+    "description": "Discover the essential concepts of data science, including data analysis, visualization, and machine learning. Hands-on exercises and real-world examples included.",
+    "price": "89.99",
+    "credit_hour": 5
+  },
+  {
+    "id": "4",
+    "cover": "https://i.ibb.co/6rL1dfn/flat-lay-workstation-with-copy-space-laptop-min.jpg",
+    "title": "Graphic Design Basics",
+    "description": "Learn the fundamentals of graphic design, including typography, color theory, and layout design. Create your own designs using popular design tools.",
+    "price": "59.99",
+    "credit_hour": 3
+  },
+  {
+    "id": "5",
+    "cover": "https://i.ibb.co/QPtbgxj/Ctravel-removebg.png",
+    "title": "Business Management",
+    "description": "Gain a comprehensive understanding of business management principles, including strategic planning, marketing, finance, and human resources.",
+    "price": "79.99",
+    "credit_hour": 4
+  }
+]
