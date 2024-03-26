@@ -14,7 +14,6 @@ function App() {
 
   const handleSelect = (course) => {
 
-    
     // remaining credit hours
     // if (creditHours >= 20) {
     //   alert("Credit limit over!!");
@@ -45,6 +44,13 @@ function App() {
 
   }
 
+  const handleReset = () => {
+    setBookmarks([]);
+    setRemainingCredit(20);
+    setCreditHours(0);
+    setPrice(0)
+  }
+
   return (
     <div className='bg-gray-100 h-auto'>
       <Header />
@@ -57,6 +63,7 @@ function App() {
           remainingCredit={remainingCredit}
           creditHours={creditHours}
           price={price}
+          handleReset={handleReset}
         />
       </div>
     </div>
